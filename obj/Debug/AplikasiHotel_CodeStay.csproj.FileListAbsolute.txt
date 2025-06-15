@@ -1,0 +1,103 @@
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.csproj.AssemblyReference.cache
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.Properties.Resources.resources
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.csproj.GenerateResource.cache
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.csproj.CoreCompileInputs.cache
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\bin\Debug\Guna.UI2.dll
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.login.resources
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.Register.resources
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\Aplikasi.996B9FE9.Up2Date
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.LihatKamar.resources
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.resepsioniss.resources
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.admin.resources
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.KelolaKamar.resources
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.reservasi.resources
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.pembayaran.resources
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.DetailTransaksi.resources
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.KelolaReservasi.resources
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.LihatDataCostumer.resources
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.welcome.resources
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.DataCustomer.resources
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.gymm.resources
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.Resto.resources
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\bin\Debug\AplikasiHotel_CodeStayy.exe.config
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\bin\Debug\AplikasiHotel_CodeStayy.exe
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\bin\Debug\AplikasiHotel_CodeStayy.pdb
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStayy.exe
+C:\Users\Andre Putra Wibawa\source\repos\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStayy.pdb
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.csproj.AssemblyReference.cache
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStayy.exe
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStayy.pdb
+C:\Users\user\Documents\AplikasiHotel_CodeStay\bin\Debug\AplikasiHotel_CodeStayy.exe.config
+C:\Users\user\Documents\AplikasiHotel_CodeStay\bin\Debug\AplikasiHotel_CodeStayy.exe
+C:\Users\user\Documents\AplikasiHotel_CodeStay\bin\Debug\AplikasiHotel_CodeStayy.pdb
+C:\Users\user\Documents\AplikasiHotel_CodeStay\bin\Debug\Guna.UI2.dll
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.admin.resources
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.DataCustomer.resources
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.DetailTransaksi.resources
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.gymm.resources
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.KelolaKamar.resources
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.KelolaReservasi.resources
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.LihatDataCostumer.resources
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.LihatKamar.resources
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.login.resources
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.pembayaran.resources
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.Properties.Resources.resources
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.Register.resources
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.resepsioniss.resources
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.reservasi.resources
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.Resto.resources
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.welcome.resources
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.csproj.GenerateResource.cache
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.csproj.CopyComplete
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.csproj.AssemblyReference.cache
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\bin\Debug\Guna.UI2.dll
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.admin.resources
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.DetailTransaksi.resources
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.KelolaKamar.resources
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.LihatKamar.resources
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.login.resources
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.pembayaran.resources
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.Properties.Resources.resources
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.Register.resources
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.resepsioniss.resources
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.reservasi.resources
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.Resto.resources
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.welcome.resources
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.csproj.GenerateResource.cache
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.csproj.CoreCompileInputs.cache
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\Aplikasi.996B9FE9.Up2Date
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\bin\Debug\AplikasiHotel_CodeStay.exe
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.InputDataCustomer.resources
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.LihatReservasi.resources
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\bin\Debug\AplikasiHotel_CodeStay.exe.config
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\bin\Debug\AplikasiHotel_CodeStay.pdb
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.exe
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.pdb
+C:\Users\Andre Putra Wibawa\Downloads\AplikasiHotel_CodeStay\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.KelolaDataCostumer.resources
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.exe
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.pdb
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\bin\Debug\AplikasiHotel_CodeStay.exe.config
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\bin\Debug\AplikasiHotel_CodeStay.exe
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\bin\Debug\AplikasiHotel_CodeStay.pdb
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\bin\Debug\Guna.UI2.dll
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.admin.resources
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.InputDataCustomer.resources
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.DetailTransaksi.resources
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.KelolaKamar.resources
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.LihatReservasi.resources
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.KelolaDataCostumer.resources
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.LihatKamar.resources
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.login.resources
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.pembayaran.resources
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.Properties.Resources.resources
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.Register.resources
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.resepsioniss.resources
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.reservasi.resources
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.Resto.resources
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.welcome.resources
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.csproj.GenerateResource.cache
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.csproj.CopyComplete
+C:\Users\user\Desktop\AplikasiHotel_CodeStay\obj\Debug\AplikasiHotel_CodeStay.KelolaAkun.resources

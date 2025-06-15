@@ -1,0 +1,535 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AplikasiHotel_CodeStay||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\lihatdatacostumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:lihatdatacostumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\detailtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:detailtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ReservasiHotel/True/SqlTable/dbo.LogKamar.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\pembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:pembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\pembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:pembayaran.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\detailtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:detailtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ReservasiHotel/True/SqlTable/dbo.kamar.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\resto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:resto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\reservasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:reservasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\reservasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:reservasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\lihatkamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:lihatkamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\lihatkamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:lihatkamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\kelolakamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:kelolakamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\kelolakamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:kelolakamar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\resepsioniss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:resepsioniss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\resto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:resto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\resepsioniss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:resepsioniss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\lihatdatacostumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:lihatdatacostumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\datacustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:datacustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\KelolaReservasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KelolaReservasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\DataCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataCustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\kelolareservasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:kelolareservasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}|AplikasiHotel_CodeStay.csproj|c:\\users\\andre putra wibawa\\downloads\\aplikasihotel_codestay\\aplikasihotel_codestay\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 55,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "KelolaReservasi.cs",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\KelolaReservasi.cs",
+              "RelativeDocumentMoniker": "KelolaReservasi.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\KelolaReservasi.cs",
+              "RelativeToolTip": "KelolaReservasi.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T11:02:25.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DataCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\DataCustomer.cs",
+              "RelativeDocumentMoniker": "DataCustomer.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\DataCustomer.cs",
+              "RelativeToolTip": "DataCustomer.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvzcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T01:21:19.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AplikasiHotel_CodeStay",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay.csproj",
+              "RelativeDocumentMoniker": "AplikasiHotel_CodeStay.csproj",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay.csproj",
+              "RelativeToolTip": "AplikasiHotel_CodeStay.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-14T09:17:36.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.LogKamar [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ReservasiHotel/True/SqlTable/dbo.LogKamar.sql",
+              "ToolTip": "dbo.LogKamar [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-10T09:30:57.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DataCustomer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\DataCustomer.cs",
+              "RelativeDocumentMoniker": "DataCustomer.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\DataCustomer.cs [Design]*",
+              "RelativeToolTip": "DataCustomer.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T05:30:32.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.kamar [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/ReservasiHotel/True/SqlTable/dbo.kamar.sql",
+              "ToolTip": "dbo.kamar [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-30T04:40:00.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Resto.cs",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\Resto.cs",
+              "RelativeDocumentMoniker": "Resto.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\Resto.cs",
+              "RelativeToolTip": "Resto.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwBsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:26:49.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Resto.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\Resto.cs",
+              "RelativeDocumentMoniker": "Resto.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\Resto.cs [Design]",
+              "RelativeToolTip": "Resto.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:26:46.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-22T07:17:14.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LihatDataCostumer.cs",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\LihatDataCostumer.cs",
+              "RelativeDocumentMoniker": "LihatDataCostumer.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\LihatDataCostumer.cs",
+              "RelativeToolTip": "LihatDataCostumer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:16:24.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LihatDataCostumer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\LihatDataCostumer.cs",
+              "RelativeDocumentMoniker": "LihatDataCostumer.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\LihatDataCostumer.cs [Design]",
+              "RelativeToolTip": "LihatDataCostumer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:06:15.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "reservasi.cs",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\reservasi.cs",
+              "RelativeDocumentMoniker": "reservasi.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\reservasi.cs",
+              "RelativeToolTip": "reservasi.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAuwMgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:29:28.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "KelolaReservasi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\KelolaReservasi.cs",
+              "RelativeDocumentMoniker": "KelolaReservasi.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\KelolaReservasi.cs [Design]",
+              "RelativeToolTip": "KelolaReservasi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:25:15.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetailTransaksi.cs",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\DetailTransaksi.cs",
+              "RelativeDocumentMoniker": "DetailTransaksi.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\DetailTransaksi.cs",
+              "RelativeToolTip": "DetailTransaksi.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T04:07:55.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pembayaran.cs",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\pembayaran.cs",
+              "RelativeDocumentMoniker": "pembayaran.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\pembayaran.cs",
+              "RelativeToolTip": "pembayaran.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAYwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T03:55:38.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "welcome.cs",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\welcome.cs",
+              "RelativeDocumentMoniker": "welcome.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\welcome.cs",
+              "RelativeToolTip": "welcome.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T02:14:40.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "welcome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\welcome.cs",
+              "RelativeDocumentMoniker": "welcome.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\welcome.cs [Design]",
+              "RelativeToolTip": "welcome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T02:01:32.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LihatKamar.cs",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\LihatKamar.cs",
+              "RelativeDocumentMoniker": "LihatKamar.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\LihatKamar.cs",
+              "RelativeToolTip": "LihatKamar.cs",
+              "ViewState": "AQIAAJsAAAAAAAAAAAAqwH0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:28:12.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "reservasi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\reservasi.cs",
+              "RelativeDocumentMoniker": "reservasi.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\reservasi.cs [Design]",
+              "RelativeToolTip": "reservasi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T01:21:08.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailTransaksi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\DetailTransaksi.cs",
+              "RelativeDocumentMoniker": "DetailTransaksi.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\DetailTransaksi.cs [Design]",
+              "RelativeToolTip": "DetailTransaksi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:59:03.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pembayaran.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\pembayaran.cs",
+              "RelativeDocumentMoniker": "pembayaran.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\pembayaran.cs [Design]",
+              "RelativeToolTip": "pembayaran.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T00:46:08.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "admin.cs",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\admin.cs",
+              "RelativeDocumentMoniker": "admin.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\admin.cs",
+              "RelativeToolTip": "admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:21:06.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "KelolaKamar.cs",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\KelolaKamar.cs",
+              "RelativeDocumentMoniker": "KelolaKamar.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\KelolaKamar.cs",
+              "RelativeToolTip": "KelolaKamar.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAmwO8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:00:33.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KelolaKamar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\KelolaKamar.cs",
+              "RelativeDocumentMoniker": "KelolaKamar.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\KelolaKamar.cs [Design]",
+              "RelativeToolTip": "KelolaKamar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:49:15.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "resepsioniss.cs",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\resepsioniss.cs",
+              "RelativeDocumentMoniker": "resepsioniss.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\resepsioniss.cs",
+              "RelativeToolTip": "resepsioniss.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAqwDYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:22:57.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LihatKamar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\LihatKamar.cs",
+              "RelativeDocumentMoniker": "LihatKamar.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\LihatKamar.cs [Design]",
+              "RelativeToolTip": "LihatKamar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:00:23.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\Register.cs [Design]",
+              "RelativeToolTip": "Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:30:54.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\admin.cs",
+              "RelativeDocumentMoniker": "admin.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\admin.cs [Design]",
+              "RelativeToolTip": "admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:19:27.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\login.cs",
+              "RelativeToolTip": "login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:16:09.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\login.cs",
+              "RelativeDocumentMoniker": "login.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\login.cs [Design]",
+              "RelativeToolTip": "login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:58:20.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "resepsioniss.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\resepsioniss.cs",
+              "RelativeDocumentMoniker": "resepsioniss.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\resepsioniss.cs [Design]",
+              "RelativeToolTip": "resepsioniss.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T05:17:47.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\Register.cs",
+              "RelativeDocumentMoniker": "Register.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\Register.cs",
+              "RelativeToolTip": "Register.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T02:02:42.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Andre Putra Wibawa\\Downloads\\AplikasiHotel_CodeStay\\AplikasiHotel_CodeStay\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T01:57:18.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

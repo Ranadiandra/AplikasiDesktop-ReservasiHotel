@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AplikasiHotel_CodeStay", "AplikasiHotel_CodeStay.csproj", "{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8BEB58-9E39-4F93-84B8-0A2B261F4CC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D362C3E2-38BC-4130-8659-76B05BDBEF77}
+	EndGlobalSection
+EndGlobal
